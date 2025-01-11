@@ -1,4 +1,6 @@
-# Hi, I'm Luis Jiménez 👋
+<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V6cHR4ZHVkZTJqMWlmYzBmMWcwZml1c293eXlrcnNpdmE2czV4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRSnxyhJnPsaQy9YLn/giphy.webp" width="310" >
+
+<h1>Hi, I'm Luis Jiménez 👋</h1>
 
 🚀 Contributing to open source projects
 
