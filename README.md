@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Luis Jiménez 👋</h1>
 
-🚀 Contributing to open source projects
+🚀 Contributing to open source projects and buildig ByteBeasts ⛩️🐉
 
 [![Follow](https://img.shields.io/github/followers/jimenezz22?label=Follow&style=social)](https://github.com/jimenezz22)
 [![Follow](https://img.shields.io/twitter/follow/devJimenezz22?label=Follow&style=social)](https://x.com/devJimenezz22)  
@@ -10,9 +10,11 @@
 
 
 ## 🏆 Achievements 🎖️
-- 🗓️ **10/2024** 🥈 2nd at Dojo Game Jam #5 [🌐 BabyBeasts](https://github.com/ByteBuildersLabs/BabyBeastsv2)
-- 🗓️ **08/2024** Competitor at Aleph Hackathon [🌐 ZK-Quizzer](https://github.com/jimenezz22/Aleph-Hackathon-ZKQuizzer)
-- 🗓️ **07/2024** Competitor at Starknet Hacker House Brussels [🌐 ByteBeasts](https://github.com/ByteBuildersLabs/ByteBeastsFrontend)
+- 🗓️ **02/2025** Competitor at Starknet Denver Hacker House [🌐 ByteBeasts Tamagotchi](https://github.com/ByteBuildersLabs/BabyBeastsv2)
+- 🗓️ **01/2025** Competitor at Starkware x Realms World AI Agent Hackathon [🌐 ByteBeasts Tamagotchi AI Agent](https://github.com/ByteBuildersLabs/BabyBeastsv2)
+- 🗓️ **10/2024** 🥈 2nd at Dojo Game Jam #5 [🌐 ByteBeasts Tamagotchi](https://github.com/ByteBuildersLabs/BabyBeastsv2)
+- 🗓️ **08/2024** Competitor at Aleph Hackathon Argentina [🌐 ZK-Quizzer](https://github.com/jimenezz22/Aleph-Hackathon-ZKQuizzer)
+- 🗓️ **07/2024** Competitor at Starknet Brussels Hacker House [🌐 ByteBeasts](https://github.com/ByteBuildersLabs/ByteBeastsFrontend)
 - 🗓️ **06/2024** Competitor at Starkhack [🌐 ByteBeasts](https://ethglobal.com/showcase/bytebeasts-kf97c)
 
 
