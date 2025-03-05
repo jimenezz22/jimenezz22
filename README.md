@@ -11,7 +11,7 @@
 
 ## 🏆 Achievements 🎖️
 - 🗓️ **02/2025** Competitor at Starknet Denver Hacker House [🌐 ByteBeasts Tamagotchi](https://github.com/ByteBuildersLabs/BabyBeastsv2)
-- 🗓️ **01/2025** Competitor at Starkware x Realms World AI Agent Hackathon [🌐 ByteBeasts Tamagotchi AI Agent](https://github.com/ByteBuildersLabs/BabyBeastsv2)
+- 🗓️ **01/2025** 🎖️ 4th at Starkware x Realms World AI Agent Hackathon [🌐 ByteBeasts Tamagotchi AI Agent](https://github.com/ByteBuildersLabs/BabyBeastsv2)
 - 🗓️ **10/2024** 🥈 2nd at Dojo Game Jam #5 [🌐 ByteBeasts Tamagotchi](https://github.com/ByteBuildersLabs/BabyBeastsv2)
 - 🗓️ **08/2024** Competitor at Aleph Hackathon Argentina [🌐 ZK-Quizzer](https://github.com/jimenezz22/Aleph-Hackathon-ZKQuizzer)
 - 🗓️ **07/2024** Competitor at Starknet Brussels Hacker House [🌐 ByteBeasts](https://github.com/ByteBuildersLabs/ByteBeastsFrontend)
