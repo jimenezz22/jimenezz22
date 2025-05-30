@@ -10,6 +10,7 @@
 
 
 ## 🏆 Achievements
+- 🗓️ **05/2025** 🥇 1st in Gaming Track & 🥉 3rd Best Use of Starknet at Re{ignite} Hackathon [🌐 Golem Runner](https://golemrunner.live/)
 - 🗓️ **02/2025** Competitor at Starknet Denver Hacker House [🌐 ByteBeasts Tamagotchi](https://github.com/ByteBuildersLabs/BabyBeastsv2)
 - 🗓️ **01/2025** 🎖️ 4th at Starkware x Realms World AI Agent Hackathon [🌐 ByteBeasts Tamagotchi AI Agent](https://github.com/ByteBuildersLabs/BabyBeastsv2)
 - 🗓️ **10/2024** 🥈 2nd at Dojo Game Jam #5 [🌐 ByteBeasts Tamagotchi](https://github.com/ByteBuildersLabs/BabyBeastsv2)
