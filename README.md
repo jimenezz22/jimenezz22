@@ -4,7 +4,6 @@
 
 [![Follow](https://img.shields.io/github/followers/jimenezz22?label=Follow&style=social)](https://github.com/jimenezz22)
 [![Follow](https://img.shields.io/twitter/follow/devJimenezz22?label=Follow&style=social)](https://x.com/devJimenezz22)
-[![OnlyDust](https://img.shields.io/badge/OnlyDust-Profile-blue?style=flat&logo=onlydust)](https://app.onlydust.com/u/jimenezz22)
 
 ## 👨‍💻 About Me
 
@@ -57,13 +56,13 @@ Delivered 250+ features across React, NextJS, and GraphQL APIs. Built Web3 authe
 ## 🛠️ Tech Stack
 
 ```text
-Languages    │ TypeScript • JavaScript • Rust • Cairo • Python • C# • Java • Go
+Languages    │ TypeScript • JavaScript • Rust • Cairo • Python • C# • Java
 Frontend     │ React • NextJS • Tailwind CSS • Zustand
 Backend      │ NestJS • Node.js • .NET Core • RESTful APIs • GraphQL
 Data         │ PostgreSQL • SQL Server • TypeORM • Entity Framework Core • ETL pipelines
 Web3         │ Starknet • Stellar • Cairo • Dojo Engine • Ethereum L2s • Smart Contracts • Solidity
 DevOps       │ Docker • Git • CI/CD • Azure DevOps • AWS • Google Cloud Platform
-Tools        │ AI-assisted development (Claude Code, Cursor) • Apache Airflow
+AI.          │ AI-assisted development (Claude Code, Cursor)
 ```
 
 ## 📊 GitHub Stats
