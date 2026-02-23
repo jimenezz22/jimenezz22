@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-Software Development Engineer Sr. Associate at Infinite Costa Rica. Full Stack Engineer with 2+ years building scalable applications, from ETL pipelines processing 30K+ records to blockchain infrastructure serving 2K+ concurrent users. Passionate about clean code, data-driven systems, and open-source development.
+Full Stack Software Engineer with 3+ years building scalable applications, from ETL pipelines processing 30K+ records to blockchain infrastructure serving 2K+ concurrent users. Passionate about clean code, data-driven systems, and open-source development.
 
 **Expertise:** ASP.NET/Java, TypeScript/React/Node ecosystems, Solidity/Cairo/Rust for Web3, database optimization, RESTful/GraphQL APIs, and AI-assisted development workflows.
 
@@ -48,7 +48,6 @@ Delivered 250+ features across React, NextJS, and GraphQL APIs. Built Web3 authe
 
 ## 💼 Experience Highlights
 
-- **Software Development Engineer Sr. Associate @ Infinite Costa Rica**: Building enterprise-grade applications and scalable systems.
 - **DevRel Engineer Intern @ Logos Network**: Built decentralized infrastructure templates, wrote technical documentation in Spanish, and facilitated workshops with 900+ attendees.
 - **Full Stack Developer @ Tecnológico de Costa Rica**: Designed ETL pipelines migrating 30K+ records from legacy .NET systems to modern NestJS/NextJS stack with 99.9% data accuracy.
 - **Open Source Educator**: Onboarded 400+ LATAM developers through workshops, technical content, and mentorship at ETH Kipu and Starknet hackathons.
